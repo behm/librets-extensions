@@ -1,4 +1,4 @@
 librets-extensions
 ==================
 
-Extension methods for libRets DotNet to simplify your your code
+Extension methods for lib-rets-dotnet to simplify your your code
